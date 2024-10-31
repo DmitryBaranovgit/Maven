@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+-Xdoclint:none
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Admin/MyProject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/MyProject/target/docs/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MyProject 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'MyProject 1.0-SNAPSHOT API'
+com.example.project
+com.example.project.shapes
+com.example.project.utils
+C:\Users\Admin\MyProject\src\main\java = 1730225112865
+C:\Users\Admin\MyProject\target\docs\apidocs\allclasses-index.html = 1730395802485
+C:\Users\Admin\MyProject\target\docs\apidocs\allpackages-index.html = 1730395802488
+C:\Users\Admin\MyProject\target\docs\apidocs\copy.svg = 1730395802520
+C:\Users\Admin\MyProject\target\docs\apidocs\element-list = 1730395802409
+C:\Users\Admin\MyProject\target\docs\apidocs\help-doc.html = 1730395802515
+C:\Users\Admin\MyProject\target\docs\apidocs\index-all.html = 1730395802505
+C:\Users\Admin\MyProject\target\docs\apidocs\index.html = 1730395802472
+C:\Users\Admin\MyProject\target\docs\apidocs\link.svg = 1730395802521
+C:\Users\Admin\MyProject\target\docs\apidocs\member-search-index.js = 1730395802493
+C:\Users\Admin\MyProject\target\docs\apidocs\module-search-index.js = 1730395802490
+C:\Users\Admin\MyProject\target\docs\apidocs\overview-summary.html = 1730395802510
+C:\Users\Admin\MyProject\target\docs\apidocs\overview-tree.html = 1730395802469
+C:\Users\Admin\MyProject\target\docs\apidocs\package-search-index.js = 1730395802491
+C:\Users\Admin\MyProject\target\docs\apidocs\script.js = 1730395802519
+C:\Users\Admin\MyProject\target\docs\apidocs\search-page.js = 1730395802525
+C:\Users\Admin\MyProject\target\docs\apidocs\search.html = 1730395802508
+C:\Users\Admin\MyProject\target\docs\apidocs\search.js = 1730395802524
+C:\Users\Admin\MyProject\target\docs\apidocs\stylesheet.css = 1730395802517
+C:\Users\Admin\MyProject\target\docs\apidocs\tag-search-index.js = 1730395802494
+C:\Users\Admin\MyProject\target\docs\apidocs\type-search-index.js = 1730395802492
